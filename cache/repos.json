@@ -5,17 +5,17 @@
   "deletions": 8100,
   "oid": "4dbc3e5a1d897e734e7cfae700eaa29c37151f8f"
  },
- "cashcow-radar-agent": {
-  "additions": 288282,
-  "commits": 62,
-  "deletions": 32734,
-  "oid": "1f0dd7367c774308cdd682dd4af6ddbe6cb88a45"
- },
  "stafford-academy": {
   "additions": 40619,
   "commits": 8,
   "deletions": 168,
   "oid": "1c5501fa0a403743bef89c43807146f01dbab36c"
+ },
+ "zerack": {
+  "additions": 288297,
+  "commits": 64,
+  "deletions": 32740,
+  "oid": "547d2aa857077c7cd162b5016e94773e47e5e149"
  },
  "zerack-fit": {
   "additions": 13165,

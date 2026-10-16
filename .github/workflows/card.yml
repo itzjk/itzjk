@@ -1,0 +1,42 @@
+# Once a day: read the GitHub API with this repo's own token, rebuild the card and commit it only if something
+# changed (Uptime changes every day; the numbers, whenever there is activity). If the API fails the step fails
+# and the previous card stays: a half-built card is never committed.
+name: profile card
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Test the generator
+        run: python3 -m unittest discover -s tests
+
+      - name: Rebuild from the API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 src/generate.py
+
+      - name: Commit only if something changed
+        run: |
+          git add assets cache
+          if git diff --cached --quiet; then
+            echo "nothing changed: no commit"
+            exit 0
+          fi
+          git -c user.name="ZERACK" -c user.email="189363748+itzjk@users.noreply.github.com" \
+            commit -m "Profile card: data for $(date -u +%F)"
+          git push

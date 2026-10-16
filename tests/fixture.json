@@ -2,31 +2,31 @@
   "user": {
     "id": "U_falso",
     "createdAt": "2024-11-22T13:46:44Z",
-    "name": "NOMBRE_REAL_CENTINELA",
-    "email": "centinela@ejemplo.invalid",
-    "location": "UBICACION_CENTINELA",
-    "bio": "BIO_CENTINELA",
-    "company": "EMPRESA_CENTINELA",
-    "avatarUrl": "https://avatars.example.invalid/centinela.png",
-    "websiteUrl": "https://web-centinela.invalid",
-    "twitterUsername": "twitter_centinela",
+    "name": "NOMBRE_REAL_SENTINEL",
+    "email": "sentinel@ejemplo.invalid",
+    "location": "UBICACION_SENTINEL",
+    "bio": "BIO_SENTINEL",
+    "company": "EMPRESA_SENTINEL",
+    "avatarUrl": "https://avatars.example.invalid/sentinel.png",
+    "websiteUrl": "https://web-sentinel.invalid",
+    "twitterUsername": "twitter_sentinel",
     "followers": {"totalCount": 987654321},
     "repositoriesContributedTo": {"totalCount": 13},
     "repositories": {
       "totalCount": 7,
       "nodes": [
-        {"name": "uno", "stargazerCount": 2, "defaultBranchRef": {"target": {"oid": "a1"}},
+        {"name": "one", "stargazerCount": 2, "defaultBranchRef": {"target": {"oid": "a1"}},
          "languages": {"edges": [{"size": 9000, "node": {"name": "Python"}}, {"size": 99999, "node": {"name": "HTML"}},
                                  {"size": 50, "node": {"name": "Shell"}}]}},
-        {"name": "dos", "stargazerCount": 3, "defaultBranchRef": {"target": {"oid": "b2"}},
+        {"name": "two", "stargazerCount": 3, "defaultBranchRef": {"target": {"oid": "b2"}},
          "languages": {"edges": [{"size": 20000, "node": {"name": "TypeScript"}}, {"size": 700, "node": {"name": "Luau"}},
                                  {"size": 600, "node": {"name": "C"}}, {"size": 500, "node": {"name": "SQL"}},
                                  {"size": 88888, "node": {"name": "CSS"}}]}}
       ]
     }
   },
-  "historias": {
-    "uno": {"oid": "a1", "commits": 300, "additions": 120000, "deletions": 20000},
-    "dos": {"oid": "b2", "commits": 21, "additions": 3456, "deletions": 456}
+  "histories": {
+    "one": {"oid": "a1", "commits": 300, "additions": 120000, "deletions": 20000},
+    "two": {"oid": "b2", "commits": 21, "additions": 3456, "deletions": 456}
   }
 }
