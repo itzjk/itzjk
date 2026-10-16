@@ -1,15 +1,15 @@
 {
  "banditd": {
-  "additions": 45519,
-  "commits": 98,
-  "deletions": 8100,
-  "oid": "4dbc3e5a1d897e734e7cfae700eaa29c37151f8f"
+  "additions": 45767,
+  "commits": 101,
+  "deletions": 8103,
+  "oid": "b81daf651d1aa6db8125ccadcae6f0b8df5a1727"
  },
  "stafford-academy": {
-  "additions": 40619,
-  "commits": 8,
-  "deletions": 168,
-  "oid": "1c5501fa0a403743bef89c43807146f01dbab36c"
+  "additions": 40978,
+  "commits": 11,
+  "deletions": 232,
+  "oid": "d250ea66eb19e0a55e5b49b498454fdc7b7e1d8b"
  },
  "zerack": {
   "additions": 288297,
