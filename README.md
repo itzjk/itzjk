@@ -1,5 +1,5 @@
 <a href="https://github.com/itzjk">
-  <img alt="ZERACK: a crew of AI agents orbiting in space" src="https://raw.githubusercontent.com/itzjk/itzjk/main/assets/zerack-space.svg" width="100%">
+  <img alt="ZERACK: a crew of AI agent robots orbiting a planet" src="https://raw.githubusercontent.com/itzjk/itzjk/main/assets/zerack-space.svg" width="100%">
 </a>
 
 ### Mission control
