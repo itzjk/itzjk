@@ -6,21 +6,21 @@
   "oid": "b81daf651d1aa6db8125ccadcae6f0b8df5a1727"
  },
  "stafford-academy": {
-  "additions": 40978,
-  "commits": 11,
-  "deletions": 232,
-  "oid": "d250ea66eb19e0a55e5b49b498454fdc7b7e1d8b"
+  "additions": 42045,
+  "commits": 12,
+  "deletions": 234,
+  "oid": "43edf86b5b2e5ece66b9e87a918163f399a796ac"
  },
  "zerack": {
-  "additions": 288297,
-  "commits": 64,
-  "deletions": 32740,
-  "oid": "547d2aa857077c7cd162b5016e94773e47e5e149"
+  "additions": 288499,
+  "commits": 65,
+  "deletions": 32748,
+  "oid": "b60f518577be25d23b237533391151febf2c7be7"
  },
  "zerack-fit": {
-  "additions": 13165,
-  "commits": 12,
-  "deletions": 645,
-  "oid": "ec193ed8e10a778b253e9d78f7df2cacb764ee16"
+  "additions": 14415,
+  "commits": 14,
+  "deletions": 711,
+  "oid": "f4fed4f3159cd8ba7692ca4b03e278d1bac0810c"
  }
 }
