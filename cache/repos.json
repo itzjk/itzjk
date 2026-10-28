@@ -5,11 +5,35 @@
   "deletions": 8103,
   "oid": "b81daf651d1aa6db8125ccadcae6f0b8df5a1727"
  },
+ "buddy-back": {
+  "additions": 1529,
+  "commits": 4,
+  "deletions": 148,
+  "oid": "26197f1f672a2d3cdc28a4e4f0893cd62c6239c3"
+ },
+ "cleancopy": {
+  "additions": 1138,
+  "commits": 5,
+  "deletions": 19,
+  "oid": "2ed4be34c8c9a70175fb698ca382d76fe2e825b5"
+ },
+ "hookcheck": {
+  "additions": 1456,
+  "commits": 5,
+  "deletions": 149,
+  "oid": "8a0b4e49f7cc82b844d4541f93167c964b5013d7"
+ },
  "stafford-academy": {
   "additions": 42045,
   "commits": 12,
   "deletions": 234,
   "oid": "43edf86b5b2e5ece66b9e87a918163f399a796ac"
+ },
+ "turnback": {
+  "additions": 2136,
+  "commits": 7,
+  "deletions": 122,
+  "oid": "dd1fda7f27e292ac2bb0f9c96e818b4bfb5c18e3"
  },
  "zerack": {
   "additions": 288499,
