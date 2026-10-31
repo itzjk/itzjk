@@ -1,4 +1,16 @@
 {
+ "animation-slots": {
+  "additions": 1086,
+  "commits": 3,
+  "deletions": 40,
+  "oid": "8828423f705b28c63f98642fcaa3de30cb96d120"
+ },
+ "artifact-clash": {
+  "additions": 2164,
+  "commits": 5,
+  "deletions": 32,
+  "oid": "f04addf910469f00bab24e8599ec84befacb6f31"
+ },
  "banditd": {
   "additions": 45767,
   "commits": 101,
@@ -10,6 +22,12 @@
   "commits": 4,
   "deletions": 148,
   "oid": "26197f1f672a2d3cdc28a4e4f0893cd62c6239c3"
+ },
+ "cascade-reach": {
+  "additions": 1714,
+  "commits": 1,
+  "deletions": 0,
+  "oid": "d54063ad4236781ebc860a950fc4462181ddcd87"
  },
  "cleancopy": {
   "additions": 1138,
@@ -41,6 +59,12 @@
   "deletions": 58,
   "oid": "451a9d92c2b9dcbdf00841ebd4d841769f51649c"
  },
+ "lastmod-ledger": {
+  "additions": 1347,
+  "commits": 1,
+  "deletions": 0,
+  "oid": "809d4ec3a81c9a52764776cfea558ea2c7b61acf"
+ },
  "lintpreflight": {
   "additions": 1031,
   "commits": 2,
@@ -52,6 +76,12 @@
   "commits": 1,
   "deletions": 0,
   "oid": "5dd7f0a0a912df0a0d0eac1ca9929521cbb1e741"
+ },
+ "property-delta": {
+  "additions": 2438,
+  "commits": 4,
+  "deletions": 63,
+  "oid": "cc09346153ba2c8167e2c327810919bf8dd96e5b"
  },
  "sarif-anchor": {
   "additions": 1620,
