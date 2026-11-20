@@ -6,6 +6,9 @@ I run an organization where dozens of coordinated agents plan, check each other'
 - [vigil](https://github.com/itzjk/vigil) · anomaly detection on real ESA satellite telemetry: a reproduced baseline, one scorer, and two independent reviewers on every alarm before a person sees it
 - [VESTA](https://github.com/itzjk/vesta) · evidence-coverage checker for spacecraft fire safety, built for NASA Space Apps 2026. [Live](https://itzjk.github.io/vesta/#/brief)
 
+**Robotics**
+- [dojo](https://github.com/itzjk/dojo) · a Unitree G1 humanoid learns to walk on command and do karate in MuJoCo, trained with PPO on a laptop CPU
+
 **Agents and tools**
 - [zerack](https://github.com/itzjk/zerack) · eleven browser agents that work inside the pages a business already runs on
 - [explainkit](https://github.com/itzjk/explainkit) · script and narration in, vertical 2D explainer video out, all on your machine
