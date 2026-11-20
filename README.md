@@ -3,7 +3,7 @@
 I run an organization where dozens of coordinated agents plan, check each other's work, act on a schedule and escalate only what a person has to decide. The next step is the same model for machines in space: agents that stand watch over telemetry, filter false alarms, propose an action with the evidence attached, and keep a record of every decision.
 
 **Space**
-- [alarm-guard](https://github.com/itzjk/alarm-guard) · reproduced anomaly-detection baseline on real ESA satellite telemetry, with one scorer. The ground floor for agents that review every alarm before a person sees it
+- [vigil](https://github.com/itzjk/vigil) · anomaly detection on real ESA satellite telemetry: a reproduced baseline, one scorer, and two independent reviewers on every alarm before a person sees it
 - [VESTA](https://github.com/itzjk/vesta) · evidence-coverage checker for spacecraft fire safety, built for NASA Space Apps 2026. [Live](https://itzjk.github.io/vesta/#/brief)
 
 **Agents and tools**
