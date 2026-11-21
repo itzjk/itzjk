@@ -53,6 +53,12 @@
   "deletions": 130,
   "oid": "ac86a6e7c7b2964f49ab5572588e68a4fed4493a"
  },
+ "dojo": {
+  "additions": 7324,
+  "commits": 1,
+  "deletions": 0,
+  "oid": "e9beba6b398af03e7cf99456c1a48c52db6e5d85"
+ },
  "explainkit": {
   "additions": 3474,
   "commits": 67,
@@ -172,6 +178,12 @@
   "commits": 3,
   "deletions": 6,
   "oid": "8e2ad3f1e7c7818521751a8549d070ee9a2db539"
+ },
+ "vigil": {
+  "additions": 8823,
+  "commits": 3,
+  "deletions": 298,
+  "oid": "551e75f695069b1806888071f518a5a45686b3e0"
  },
  "zerack": {
   "additions": 288499,
